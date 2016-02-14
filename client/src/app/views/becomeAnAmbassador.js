@@ -38,10 +38,10 @@ export default React.createClass({
                             </h3>
 
                             <a className="hidden visible-md visible-lg visible-xl" href="/register-ambassador">
-                                <button className="btn btn-primary mt-10 btn-lg text-center m-5">{ this.getIntlMessage("mainLanding.button-cta") }</button>
+                                <button className="btn btn-primary mt-10 btn-lg text-center m-5">{ this.getIntlMessage("ambassadorProgram.join-us-now") }</button>
                             </a>
                             <a className="hidden visible-xs visible-sm" href={this.getIntlMessage('typeformLinks.ambassador') }>
-                                <button className="btn btn-primary mt-10 btn-lg text-center m-5">{ this.getIntlMessage("mainLanding.button-cta") }</button>
+                                <button className="btn btn-primary mt-10 btn-lg text-center m-5">{ this.getIntlMessage("ambassadorProgram.join-us-now") }</button>
                             </a>
 
                         </div>
@@ -68,10 +68,10 @@ export default React.createClass({
                             </h3>
 
                             <a className="hidden visible-md visible-lg visible-xl" href="/register-ambassador">
-                                <button className="btn btn-primary mt-10 btn-lg text-center m-5">{ this.getIntlMessage("mainLanding.button-cta") }</button>
+                                <button className="btn btn-primary mt-10 btn-lg text-center m-5">{ this.getIntlMessage("ambassadorProgram.join-us-now") }</button>
                             </a>
                             <a className="hidden visible-xs visible-sm" href={this.getIntlMessage('typeformLinks.ambassador') }>
-                                <button className="btn btn-primary mt-10 btn-lg text-center m-5">{ this.getIntlMessage("mainLanding.button-cta") }</button>
+                                <button className="btn btn-primary mt-10 btn-lg text-center m-5">{ this.getIntlMessage("ambassadorProgram.join-us-now") }</button>
                             </a>
                         </div>
                     </div>
@@ -94,10 +94,10 @@ export default React.createClass({
                             </h3>
 
                             <a className="hidden visible-md visible-lg visible-xl" href="/register-ambassador">
-                                <button className="btn btn-primary mt-10 btn-lg text-center m-5">{ this.getIntlMessage("mainLanding.button-cta") }</button>
+                                <button className="btn btn-primary mt-10 btn-lg text-center m-5">{ this.getIntlMessage("ambassadorProgram.join-us-now") }</button>
                             </a>
                             <a className="hidden visible-xs visible-sm" href={this.getIntlMessage('typeformLinks.ambassador') }>
-                                <button className="btn btn-primary mt-10 btn-lg text-center m-5">{ this.getIntlMessage("mainLanding.button-cta") }</button>
+                                <button className="btn btn-primary mt-10 btn-lg text-center m-5">{ this.getIntlMessage("ambassadorProgram.join-us-now") }</button>
                             </a>
 
                         </div>
@@ -122,10 +122,10 @@ export default React.createClass({
                             <h4> ✓ { this.getIntlMessage("ambassadorProgram.brand") } </h4>
 
                             <a className="hidden visible-md visible-lg visible-xl" href="/register-ambassador">
-                                <button className="btn btn-primary mt-30 btn-xl text-center m-5">{ this.getIntlMessage("mainLanding.button-cta") }</button>
+                                <button className="btn btn-primary mt-30 btn-xl text-center m-5">{ this.getIntlMessage("ambassadorProgram.join-us-now") }</button>
                             </a>
                             <a className="hidden visible-xs visible-sm" href={this.getIntlMessage('typeformLinks.ambassador') }>
-                                <button className="btn btn-primary mt-30 btn-xl text-center m-5">{ this.getIntlMessage("mainLanding.button-cta") }</button>
+                                <button className="btn btn-primary mt-30 btn-xl text-center m-5">{ this.getIntlMessage("ambassadorProgram.join-us-now") }</button>
                             </a>
                         </div>
 
